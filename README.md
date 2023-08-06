@@ -96,7 +96,10 @@
 ## 2. Text Classification with Bi-directional LSTM
 - When you check the df that you've just got at the last step, you can find that many irrelevant data to reviews. So we have to classify it.
 - It's a similar to spam mail classification. **So I used RNN**.
-- But It showed 
+- But It showed about 50% accuracy just like a random possibility.
+- This task isn't a prediction or machine translation, so I thought that context of the text is more important.
+- So, I used Bidirectional LSTM which is training the sequence front and back at the same time.
+- As a result, I could see 15% increase of accuracy.
 
 ## 3. LDA Topic Modeling
 - I did LDA topic modeling to figure out topics and keywords from corpus of reviews.
