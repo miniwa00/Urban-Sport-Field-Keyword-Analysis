@@ -10,6 +10,8 @@
 3. Use various text analysis modeling method.
 
 ## Packages/Library used
+
+**Mainly**
 <table>
 <tbody>
     <tr>
@@ -21,9 +23,14 @@
             <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/0b29652b-0c8a-4d9a-8e0d-a639ef814cfd" alt="babel" width="70" height="40"/> 
         </a><br>Jupyter Notebook</br></div>
         </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/39bdc13a-d6e6-41a3-b3a4-fb34eb6bc70b" alt="babel" width="80" height="40"/> 
+            </a><br>Scikit-Learn(LDA)</br></div>
+        </td>
 </tbody>
 </table>
 
+**Web Scraping**
 <table>
 <tbody>
     <tr>
@@ -42,11 +49,42 @@
 </tbody>
 </table>
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+**Text Classification - Bidirectioanl LSTM, Vanilla LSTM**
+<table>
+<tbody>
+    <tr>
+        <td width="60">
+            <div align="center"><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/771a8263-432d-4d2b-a9bf-2768bf847ceb" alt="python" width="100" height="50"/> 
+            </a><br>TensorFlow</br></div>
+        </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/8af421b6-f924-41a6-8867-77e3097d011f" alt="babel" width="70" height="40"/> 
+            </a><br>Keras</br></div>
+        </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/39bdc13a-d6e6-41a3-b3a4-fb34eb6bc70b" alt="babel" width="80" height="40"/> 
+            </a><br>Scikit-Learn(CountVectorizer)</br></div>
+        </td>
+</tbody>
+</table>
+
+**Text Preprocessing**
+
+<table>
+<tbody>
+    <tr>
+        <td width="60">
+            <div align="center"><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/ac0d12f0-9db6-4fe7-be05-214cd7db500d" alt="python" width="100" height="50"/> 
+            </a><br>Konlpy</br></div>
+        </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/83434a59-3d87-4a87-b3e2-bdbc4823c12c" alt="babel" width="50" height="50"/> 
+            </a><br>Pykospacing</br></div>
+        </td>
+</tbody>
+</table>
+
+
 
 
 ## 1. Web Scraping with Selenium & REST API(Naver API)
@@ -70,5 +108,6 @@
 
 ## Result
 <img src="assets/topic_result.png" width=550 height=300/>
+
 - Interpretation of topics may vary depending on what meaning the user is looking for.
 
