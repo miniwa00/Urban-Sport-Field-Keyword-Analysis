@@ -14,18 +14,40 @@
 <tbody>
     <tr>
         <td width="60">
-            <div align="center"><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/1a026bce-a19e-40cd-b2c9-a72f0e8050bf" alt="python" width="40" height="40"/> </a><br>Python3</br></div>
+            <div align="center"><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/f8ac5984-af72-4233-9045-08df71a7cbf4" alt="python" width="100" height="45"/> 
+            </a><br>Python3</br></div>
         </td>
         <td>
-            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://studygyaan.com/wp-content/uploads/2021/12/Python-Socket-IO.jpg?ezimgfmt=rs:300x150/rscb1/ng:webp/ngcb1" alt="babel" width="40" height="40"/> 
-            </a><br>Python Socket</br></div>
-        </td>
-        <td>
-            <div align="center"><a href="https://docs.python.org/ko/3/library/json.html" target="_blank"> <img src="https://velog.velcdn.com/images/swhan9404/post/c43940fd-06ab-4fe6-b905-df695506ce8c/d2f1b26783.png" alt="babel" width="40" height="40"/> 
-            </a><br>Python Json</br></div>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/0b29652b-0c8a-4d9a-8e0d-a639ef814cfd" alt="babel" width="70" height="40"/> 
+        </a><br>Jupyter Notebook</br></div>
         </td>
 </tbody>
 </table>
+
+<table>
+<tbody>
+    <tr>
+        <td width="60">
+            <div align="center"><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/54a2d184-3716-4c4d-b4a5-715e649b02a0" alt="python" width="40" height="40"/> 
+            </a><br>Selenium</br></div>
+        </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/098283aa-084a-4082-8d06-fff8eb429782" alt="babel" width="70" height="40"/> 
+            </a><br>Beatiful Soup</br></div>
+        </td>
+        <td>
+            <div align="center"><a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/6c8fb542-4dde-4b60-8fee-ca87620e1088" alt="babel" width="140" height="70"/> 
+            </a><br>Naver API</br></div>
+        </td>
+</tbody>
+</table>
+
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+
 
 ## 1. Web Scraping with Selenium & REST API(Naver API)
 - I Scraped 10k data from Naver Blog when searched for 'Sport field'
@@ -43,7 +65,10 @@
 - First, I tokenized and lemmatized contents of all reviews. And vertorized them.
 - Second, I made a function that shows confusion by number of topics just like the png below.
 <img src="https://github.com/miniwa00/Urban-Sport-Field-Keyword-Analysis/assets/47784464/1a026bce-a19e-40cd-b2c9-a72f0e8050bf" width="500" height="350"/>
+
 - So we can see that **18 topics** are the best.
 
 ## Result
+<img src="assets/topic_result.png" width=550 height=300/>
+- Interpretation of topics may vary depending on what meaning the user is looking for.
 
